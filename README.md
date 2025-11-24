@@ -28,6 +28,13 @@ Cash users contribute fewer high-fare trips.
 Fare distribution is right-skewed, meaning a small number of high-fare trips influence the upper range.
 
 🟧 2. Distribution of Trip Distance (Card vs Cash)
+
+
+https://github.com/subhaeng/-Hypothesis-testing-/blob/main/Screenshot%202025-11-24%20154928.png
+
+
+
+
 ✔ What this chart shows
 
 This histogram compares trip distances for card and cash payments.
