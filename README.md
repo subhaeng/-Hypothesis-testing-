@@ -1,3 +1,85 @@
+
+
+# Taxi Trip Data Analysis Project
+
+This project analyzes taxi trip data to uncover insights related to fare
+amounts, trip distances, passenger counts, payment types, and overall
+distribution patterns. Various visualizations and statistical tests are
+included to support the findings.
+
+## Contents
+
+### 1. Distribution of Fare Amount
+
+The histogram compares fare amounts for Card and Cash payments, showing
+overall fare distribution and variation across payment methods.
+
+### 2. Distribution of Trip Distance
+
+This visualization shows the spread of trip distances for each payment
+type, highlighting differences in travel patterns.
+
+### 3. Normality Test (Q-Q Plot)
+
+A Q-Q plot is used to visually assess the normality of the dataset.
+Deviations from the reference line indicate skewness or heavy tails.
+
+### 4. Passenger Count Distribution
+
+A stacked horizontal bar chart displays the distribution of passenger
+counts for Card and Cash transactions.
+
+### 5. Payment Type Percentage
+
+A pie chart illustrating the proportions of different payment types,
+showing that Card payments dominate the dataset.
+
+## Notebook
+
+The full analysis, including data preprocessing, visualization, and
+interpretation, is available in the Jupyter Notebook:\
+`maximizing_revenue.ipynb`
+
+## File References
+
+The following plots are included in this project:
+
+-   `hist_dist.png` --- Distribution of fare amount and trip distance\
+-   `normality_test.png` --- Q-Q Plot for normality assessment\
+-   `passenger_count_percentage.png` --- Passenger count distribution\
+-   `payment_types_percentages.png` --- Percentage breakdown of payment
+    types
+
+## How to Use
+
+1.  Open the notebook `maximizing_revenue.ipynb` to view the complete
+    analysis.
+2.  Review the images for quick insight into data patterns.
+3.  Extend the project by adding:
+    -   Predictive modeling
+    -   Feature engineering
+    -   Revenue optimization strategies
+
+## Requirements
+
+-   Python 3.x\
+-   Jupyter Notebook\
+-   Libraries:
+    -   pandas
+    -   numpy
+    -   matplotlib
+    -   seaborn
+    -   scipy
+
+## Purpose
+
+The goal of this project is to analyze taxi trip data to identify
+revenue-generating opportunities and understand customer behavior
+through data visualization and statistics.
+
+
+
+
 🟧 1. Distribution of Fare Amount (Card vs Cash)
 
 https://github.com/subhaeng/-Hypothesis-testing-/blob/main/Screenshot%202025-11-24%20154210.png    
