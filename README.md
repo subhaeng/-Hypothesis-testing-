@@ -58,6 +58,13 @@ Cash payments are concentrated in short, local rides.
 Trip distance distribution is also right-skewed.
 
 🟧 3. Q–Q Plot (Normality Check)
+
+
+https://github.com/subhaeng/-Hypothesis-testing-/blob/main/Screenshot%202025-11-24%20155259.png
+
+
+
+
 ✔ What this chart shows
 
 This Q–Q plot compares the sample quantiles of trip data with the theoretical quantiles of a normal distribution.
@@ -79,6 +86,13 @@ Log transformation or non-parametric models may be needed.
 Real-world trip data usually follows skewed distributions, not normal ones.
 
 🟧 4. Passenger Count Distribution (Card vs Cash)
+
+
+
+
+
+
+
 ✔ What this chart shows
 
 A horizontal stacked bar chart comparing passenger count between cash and card payments.
@@ -102,6 +116,14 @@ Higher passenger groups prefer card payments (likely because fares are shared or
 Cash rides are simpler, quick, and mostly single-passenger.
 
 🟧 5. Percentage of Payment Types (Overall Share)
+
+
+
+
+
+
+
+
 ✔ What this chart shows
 
 A pie chart summarizing the overall share of payment types.
