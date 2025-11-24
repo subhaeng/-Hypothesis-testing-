@@ -1,7 +1,9 @@
 🟧 1. Distribution of Fare Amount (Card vs Cash)
+
 https://github.com/subhaeng/-Hypothesis-testing-/blob/main/Screenshot%202025-11-24%20154210.png    
+
 https://github.com/subhaeng/-Hypothesis-testing-/blob/main/Screenshot%202025-11-24%20154221.png
-✔ What this chart shows
+       ✔ What this chart shows
 
 This histogram compares fare amount distribution for Card and Cash payments.
 
