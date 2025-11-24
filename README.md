@@ -89,7 +89,7 @@ Real-world trip data usually follows skewed distributions, not normal ones.
 
 
 
-
+https://github.com/subhaeng/-Hypothesis-testing-/blob/main/Screenshot%202025-11-24%20160059.png
 
 
 
@@ -118,8 +118,11 @@ Cash rides are simpler, quick, and mostly single-passenger.
 🟧 5. Percentage of Payment Types (Overall Share)
 
 
+https://github.com/subhaeng/-Hypothesis-testing-/blob/main/Screenshot%202025-11-24%20160222.png
 
 
+
+https://github.com/subhaeng/-Hypothesis-testing-/blob/main/Screenshot%202025-11-24%20160238.png
 
 
 
@@ -141,10 +144,6 @@ Digital payments dominate the dataset.
 Riders strongly prefer card transactions for convenience, safety, and record-keeping.
 
 Cash is still used, but mostly for short or small-value trips.
-
-📝 Professional Summary for README
-
-Below is a polished summary you can paste directly into your README:
 
 📌 Data Visualization Summary
 
